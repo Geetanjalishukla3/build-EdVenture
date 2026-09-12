@@ -1,0 +1,6 @@
+{
+  "name": "EdVenture Career Explorer & EdTech Hub",
+  "description": "An interactive Educational Technology platform featuring a Future Career Explorer, AI Career Coach, Personalized Skill Roadmaps, and Hands-on EdTech Courses.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
